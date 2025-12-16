@@ -67,7 +67,7 @@ Once configured, the system autonomously logs in, applies search filters, monito
 ---
 
 ## 🎥 Demo Video
-[![Watch the video](https://img.youtube.com/vi/iIzsXg1quUc/0.jpg)](https://youtu.be/iIzsXg1quUc)
+[![Watch the video](https://img.youtube.com/vi/iIzsXg1quUc/1.jpg)](https://youtu.be/iIzsXg1quUc)
 
 *(Click the image to watch the full demo video)*
 ---
