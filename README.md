@@ -54,4 +54,10 @@ Once configured, the system autonomously logs in, applies search filters, monito
 
 ---
 
+# 📬 Contact 
 
+If you want to extend or customize this system:  
+**Developer:** _Md Abdullah Al Baki_  
+**Email:** _abdullahalbaki009@gmail.com_    
+
+---
