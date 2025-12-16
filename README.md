@@ -54,6 +54,24 @@ Once configured, the system autonomously logs in, applies search filters, monito
 
 ---
 
+# 🖼️ Screenshots
+
+## 📊 Dashboard
+![Dashboard](https://github.com/abdullahal-baki/Automatic-Golf-Tee-Time-Monitoring-System/blob/main/images/sample-1.png)
+![Dashborad 2](https://github.com/abdullahal-baki/Automatic-Golf-Tee-Time-Monitoring-System/blob/main/images/sample-3.png)
+
+## 👤 Account Management
+![Login](https://github.com/abdullahal-baki/Automatic-Golf-Tee-Time-Monitoring-System/blob/main/images/sample-2.png)
+
+
+---
+
+## 🎥 Demo Video
+[![Watch the video](https://img.youtube.com/vi/iIzsXg1quUc/0.jpg)](https://youtu.be/iIzsXg1quUc)
+
+*(Click the image to watch the full demo video)*
+---
+
 # 📬 Contact 
 
 If you want to extend or customize this system:  
